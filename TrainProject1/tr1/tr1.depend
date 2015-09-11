@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442010794 source:c:\users\estek\documents\github\gnrclib\avgmsc.c
+	"avgmsc.h"
+
+1442010790 c:\users\estek\documents\github\gnrclib\avgmsc.h
+	<stdint.h>
+
+1442010862 source:c:\users\estek\documents\github\gnrclib\trainproject1\tr1\main.c
+	<stdio.h>
+	<stdint.h>
+
